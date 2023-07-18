@@ -1,0 +1,9 @@
+header a {
+    font-size: 30px;
+    color: teal;
+}
+/* This is to target any tags from dislikes */
+#dislikes a {
+    font-weight: 700;
+    color: red;
+}

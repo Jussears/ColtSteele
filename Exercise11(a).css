@@ -1,0 +1,8 @@
+/* Colors checkerboard */
+div:nth-of-type(odd) {
+  background: red;
+}
+
+div:nth-of-type(even) {
+  background: black;
+}
